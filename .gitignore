@@ -1,0 +1,12 @@
+*.cmd
+.build
+binary
+cache
+chroot
+*.txt
+*.bz2
+*.gz
+*.packages
+*.install
+config
+*.contents
